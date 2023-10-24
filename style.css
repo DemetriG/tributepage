@@ -1,0 +1,19 @@
+.title-background {
+    background: yellow;
+    height: 40px;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-background h1 {
+    text-align: center;
+}
+
+#image {
+    max-width: 100%;
+}
+
+img {
+    display:block;
+}
