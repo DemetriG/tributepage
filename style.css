@@ -1,19 +1,25 @@
 .title-background {
     background: yellow;
-    height: 40px;
-    width: 40%;
+    height: 650px;
+    width: 90%;
     margin-left: auto;
     margin-right: auto;
+    font-family: 'SpongeBob Font Wide';
+    border-radius: 5px;
 }
 
-.title-background h1 {
+.center-text {
     text-align: center;
-}
-
-#image {
-    max-width: 100%;
+    padding: 15px;
 }
 
 img {
-    display:block;
+    display :block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px
+}
+
+main {
+    background-image: url('https://i.pinimg.com/1200x/44/83/70/448370d8b3549c61e7110a365c71ebcb.jpg');
 }
