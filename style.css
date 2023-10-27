@@ -4,21 +4,34 @@ main {
     width: 100%;
     background-size: cover ;
     height: 100%;
+    padding-top: 20px;
 }
 
 body {
     /*margin: 0;*/
     /*padding: 0;*/
+    margin: 0;
+}
+
+.tribute-container {
+    background-color: white;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
 }
 
 .title-background {
     background: yellow;
-    height: 650px;
-    width: 90%;
+    /*height: 650px;*/
     margin-left: auto;
     margin-right: auto;
     font-family: 'SpongeBob Font Wide';
     border-radius: 5px;
+}
+
+h1 {
+    margin-top: 0;
 }
 
 .center-text {
@@ -35,10 +48,11 @@ img {
 
 .timeline {
     background-color: white;
-    width: 70%;
     margin-left: auto;
     margin-right: auto;
     border-radius: 5px;
+    /*border: red 1px solid;*/
+    max-width: 1000px;
 }
 
 ul {
